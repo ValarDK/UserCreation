@@ -39,3 +39,7 @@ Insert data using the scripts createUser.js
 
 URL : http://localhost:8129/createUser/
 
+![image](https://user-images.githubusercontent.com/68809796/126526407-16c2f51a-bd73-47fb-b9de-8f12b3643707.png)
+![image](https://user-images.githubusercontent.com/68809796/126527229-17c217cf-21c9-4341-ad75-3c722e21ada6.png)
+
+
