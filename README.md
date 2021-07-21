@@ -17,11 +17,17 @@ Controller: UserController
 # Development Environment
 
 IDE - IDEA Intellij
+
 Version Control - Git
+
 Dependency Management - Gradle 6.6.1
+
 Database - MongoDb NoSql
+
 RESTful Application framework - Spring Boot
+
 Programming language - Java 1.8
+
 Operating System - Windows 10 10.0 amd64
 
 # MongoDB
