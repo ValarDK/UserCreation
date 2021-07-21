@@ -1,8 +1,10 @@
 # UserCreation
 #Functionality/Overview
+
 User creation form provides data to save user data into mongoDB and excel sheet.
 
 #Design:
+
 Model : user
 View : createUser.html
 Controller: UserController
@@ -13,6 +15,7 @@ Controller: UserController
 
 
 #Development Environment
+
 IDE - IDEA Intellij
 Version Control - Git
 Dependency Management - Gradle 6.6.1
@@ -22,6 +25,7 @@ Programming language - Java 1.8
 Operating System - Windows 10 10.0 amd64
 
 #MongoDB
+
 Start your MongoDB server - use studio3T
 create a collection by name user
 Insert data using the scripts createUser.js
